@@ -1,0 +1,7 @@
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/node /tmp/vscode-remote-containers-1b0918ec-29ee-45d0-a0bd-9ea4b78ae42f.js git-credential-helper $*; }; f"
+[safe]
+	directory = /root
+[user]
+	email = yosmoris@gmail.com
+	name = cscoyosmoris
